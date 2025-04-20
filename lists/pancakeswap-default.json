@@ -1,6 +1,6 @@
 {
   "name": "PancakeSwap Default",
-  "timestamp": "2023-12-26T13:02:45.805Z",
+  "timestamp": "2025-04-20T18:00:00.000Z",
   "version": {
     "major": 2,
     "minor": 16,
@@ -58,60 +58,12 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
     },
     {
-      "name": "Bunny Token",
-      "symbol": "BUNNY",
-      "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
+      "name": "Bulox Token",
+      "symbol": "BLX",
+      "address": "0x4c373472A8150fD2AeBcdAaa6d8D92f5276124D6",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51.png"
-    },
-    {
-      "name": "Venus Token",
-      "symbol": "XVS",
-      "address": "0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png"
-    },
-    {
-      "name": "Alpaca",
-      "symbol": "ALPACA",
-      "address": "0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F.png"
-    },
-    {
-      "name": "Polkadot Token",
-      "symbol": "DOT",
-      "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
-    },
-    {
-      "name": "Refinable",
-      "symbol": "FINE",
-      "address": "0x4e6415a5727ea08aAE4580057187923aeC331227",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x4e6415a5727ea08aAE4580057187923aeC331227.png"
-    },
-    {
-      "name": "Binance Pegged DAI",
-      "symbol": "DAI",
-      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
-    },
-    {
-      "name": "Binance Pegged USD Coin",
-      "symbol": "USDC",
-      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+      "logoURI": "https://raw.githubusercontent.com/BuloxToken/token-list/main/lists/images/projects/0x4c373472a8150fd2aebcdaaa6d8d92f5276124d6.png "
     }
   ]
 }
